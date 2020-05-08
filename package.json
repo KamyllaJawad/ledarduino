@@ -1,0 +1,23 @@
+{
+  "name": "arduino-j5",
+  "version": "0.0.1",
+  "description": "A small example of using `johnny-five` to use an Arduino as a basic web server",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbarros/Arduino-J5.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "johnny-five": "^0.15.0",
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
