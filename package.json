@@ -8,7 +8,7 @@
     "url": "git+https://github.com/rbarros/Arduino-J5.git"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "johnny-five": "^0.15.0",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0-rc.2"
